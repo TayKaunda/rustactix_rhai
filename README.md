@@ -1,2 +1,2 @@
 # rustactix_rhai
-simple arithmetic script written in rhai and rust
+simple arithmetic(division, multiplication and addition) script written in rhai and rust
